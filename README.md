@@ -6,14 +6,14 @@ A Streamlit multi-page app that walks through the full pipeline for forecasting 
 
 | Step | Preview |
 |------|---------|
-| 1. Dataset | <img src="docs/screenshots/1.png" width="360" alt="Dataset page"> |
-| 2. Clean | <img src="docs/screenshots/2.png" width="360" alt="Clean page"> |
-| 3. Features | <img src="docs/screenshots/3.png" width="360" alt="Features page"> |
-| 4. Prepare | <img src="docs/screenshots/4.png" width="360" alt="Prepare page"> |
-| 5. Train | <img src="docs/screenshots/5.png" width="360" alt="Train page"> |
-| 6. Evaluate | <img src="docs/screenshots/6.png" width="360" alt="Evaluate page"> |
-| 7. Explain | <img src="docs/screenshots/7.png" width="360" alt="Explain page"> |
-| 8. Forecast | <img src="docs/screenshots/8.png" width="360" alt="Forecast page"> |
+| 1. Dataset | <img src="docs/screenshots/2.png" width="360" alt="Dataset page"> |
+| 2. Clean | <img src="docs/screenshots/3.png" width="360" alt="Clean page"> |
+| 3. Features | <img src="docs/screenshots/4.png" width="360" alt="Features page"> |
+| 4. Prepare | <img src="docs/screenshots/5.png" width="360" alt="Prepare page"> |
+| 5. Train | <img src="docs/screenshots/6.png" width="360" alt="Train page"> |
+| 6. Evaluate | <img src="docs/screenshots/7.png" width="360" alt="Evaluate page"> |
+| 7. Explain | <img src="docs/screenshots/8.png" width="360" alt="Explain page"> |
+| 8. Forecast | <img src="docs/screenshots/9.png" width="360" alt="Forecast page"> |
 
 ## What it does
 
